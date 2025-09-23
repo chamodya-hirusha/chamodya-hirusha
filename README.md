@@ -161,7 +161,7 @@ const hirusha = {
 
 ### 🐍 Watch my contribution graph get eaten by the snake 🐍
 
-![Snake animation](https://github.com/hirusha218/hirusha218/blob/output/github-contribution-grid-snake.svg)
+[![Snake Game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)](https://github.com/Platane/snk)
 
 </div>
 
