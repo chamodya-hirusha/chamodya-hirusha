@@ -46,7 +46,6 @@ const hirusha = {
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hirusha218&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e39777&fire=e39777&currStreakLabel=e39777)](https://git.io/streak-stats)
 
 </div>
 
@@ -123,11 +122,6 @@ const hirusha = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎵 Spotify Playing
-
-<div align="center">
-  
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=hirusha218&unique=true)](https://open.spotify.com/user/hirusha218)
 
 </div>
 
