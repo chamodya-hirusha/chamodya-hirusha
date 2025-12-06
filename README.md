@@ -6,9 +6,9 @@
 
 <!-- Profile Views and Followers -->
 <div align="center" style="margin: 20px 0;">
-  <img src="https://komarev.com/ghpvc/?username=hirusha218&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/hirusha218?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/hirusha218?label=Stars&style=for-the-badge&color=yellow" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=chamodya-hirusha&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/chamodya-hirusha?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/chamodya-hirusha?label=Stars&style=for-the-badge&color=yellow" alt="GitHub stars" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
