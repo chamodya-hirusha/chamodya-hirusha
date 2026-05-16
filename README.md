@@ -29,13 +29,13 @@
   <table border="0">
     <tr>
       <td width="60%">
-        <p>I am a highly motivated <b>Full-Stack Developer</b> based in <b>Sri Lanka 🇱🇰</b>. With a deep passion for problem-solving, I specialize in building high-performance mobile and web applications that integrate <b>Artificial Intelligence</b>.</p>
-        <p>My goal is to create scalable, user-centric solutions that make a real impact. Whether it's a mobile app using <b>Flutter</b> or a robust backend with <b>Java Spring Boot</b>, I love turning complex problems into elegant code.</p>
+        <p>I am a passionate <b>Full-Stack Developer</b> from <b>Sri Lanka 🇱🇰</b>, dedicated to building high-performance mobile and web applications that incorporate <b>Artificial Intelligence</b>. My mission is to deliver scalable, user-centric solutions.</p>
+        <p>Whether it's crafting a mobile app with <b>Flutter</b> or developing a robust backend using <b>Java Spring Boot</b>, I enjoy transforming complex challenges into clean, efficient code.</p>
         <ul>
-          <li>🔭 <b>Working on:</b> AI-integrated SaaS & Mobile Platforms</li>
-          <li>🌱 <b>Learning:</b> Cloud Native Architecture & Advanced ML</li>
-          <li>💬 <b>Ask me about:</b> React, Flutter, Java, or AI Integration</li>
-          <li>🌍 <b>Portfolio:</b> <a href="https://hirusha.vercel.app/">hirusha.vercel.app</a></li>
+          <li>🔭 <b>Current Projects:</b> AI-integrated SaaS & Mobile Platforms</li>
+          <li>🌱 <b>In Progress:</b> Learning Cloud Native Architecture & Advanced ML</li>
+          <li>💬 <b>Let's Chat:</b> React, Flutter, Java, AI Integration</li>
+          <li>🌍 <b>My Work:</b> <a href="https://hirusha.vercel.app/">hirusha.vercel.app</a></li>
         </ul>
       </td>
       <td width="40%" align="center">
@@ -47,7 +47,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Full View)
+## 🛠️ Tech Stack
 
 ### 🤖 Artificial Intelligence & Machine Learning
 <p align="left">
