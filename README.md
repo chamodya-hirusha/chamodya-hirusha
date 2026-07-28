@@ -208,8 +208,6 @@ currently_learning:
 
 <img src="https://komarev.com/ghpvc/?username=chamodya-hirusha&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge"/>
 
-<br/><br/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:58A6FF,100:7F5AF0&section=footer"/>
 
 </div>
