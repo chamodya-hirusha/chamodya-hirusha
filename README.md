@@ -5,29 +5,25 @@
 
 ### Full-Stack Engineer • Mobile App Developer • AI Innovator
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Modern+Digital+Experiences+🚀;AI-Powered+Web+%26+Mobile+Applications+⚡;Clean+Code+.+Creative+Design+.+Smart+Solutions+✨" />
-
 <br/>
+
+<!-- 🏆 Direct GitHub Uploaded Banner 🏆 -->
+<img src="https://raw.githubusercontent.com/chamodya-hirusha/chamodya-hirusha/main/banner.jpg" alt="Chamodya Hirusha Banner" width="100%" />
+
+<br/><br/>
 
 <a href="https://hirusha.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/🌐_Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/chamodya-hirusha-6a5961262/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:Hiruwa.net@outlook.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/chamodya-hirusha">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=chamodya-hirusha&theme=algolia&no-frame=true&margin-w=12&margin-h=12"/>
 
 </div>
 
@@ -35,7 +31,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%">
 
 # 🚀 About Me
 
@@ -64,7 +60,7 @@ currently_learning:
 
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodya-hirusha&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img src="https://i.pinimg.com/736x/e9/2e/7e/e92e7eae979d3356975a38c03c05f453.jpg"/>
 
 </td>
 </tr>
